@@ -1,4 +1,4 @@
-# Created by zhangwei7@baixing.com on 2015-05-11 10:04
+# Created by zhwei on 2015-05-11 10:04
 
 import pickle
 

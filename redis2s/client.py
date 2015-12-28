@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Updated at 2015-03-26 11:27  by zhangwei7@baixing.com
+# Updated at 2015-03-26 11:27  by zhwei
 
 import time
 

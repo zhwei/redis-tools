@@ -1,4 +1,4 @@
-# Created by zhangwei7@baixing.com on 2015-03-12 15:42
+# Created by zhwei on 2015-03-12 15:42
 # 计数器，每次hit后重置超时时间
 
 import time

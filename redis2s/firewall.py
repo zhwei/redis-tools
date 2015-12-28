@@ -1,4 +1,4 @@
-# Created by zhangwei7@baixing.com on 2015-08-17 07:22
+# Created by zhwei on 2015-08-17 07:22
 # 每次自增，不重置过期时间
 
 from .base import Base

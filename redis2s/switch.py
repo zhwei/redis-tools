@@ -1,4 +1,4 @@
-# Created by zhangwei7@baixing.com on 2015-04-21 18:04
+# Created by zhwei on 2015-04-21 18:04
 # 开关
 
 from .base import Base
